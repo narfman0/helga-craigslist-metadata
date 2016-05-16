@@ -1,1 +1,2 @@
 craigslist-scraper
+parse-requirements-not-suckily
