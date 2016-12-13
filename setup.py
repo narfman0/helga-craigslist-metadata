@@ -23,7 +23,7 @@ setup(
     py_modules=['helga_craigslist_meta.plugin'],
     zip_safe=True,
     install_requires=[
-        'craiglist_scraper',
+        'craiglist-scraper',
     ],
     test_suite='',
     entry_points=dict(
