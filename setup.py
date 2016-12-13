@@ -16,16 +16,17 @@ setup(
     keywords='irc bot craigslist-meta',
     author='Jon Robison',
     author_email='narfman0@gmail.com',
-    url='https://craigslist.com/narfman0/helga-craigslist-meta',
+    url='https://github.com/narfman0/helga-craigslist-meta',
     license='LICENSE',
     packages=find_packages(),
     include_package_data=True,
     py_modules=['helga_craigslist_meta.plugin'],
     zip_safe=True,
     install_requires=[
+        'helga',
         'craigslist-scraper',
     ],
-    test_suite='',
+    test_suite='tests',
     entry_points=dict(
         helga_plugins=[
             'craigslist-meta = helga_craigslist_meta.plugin:craigslist_meta',
