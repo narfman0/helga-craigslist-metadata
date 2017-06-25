@@ -4,8 +4,8 @@ helga-craigslist-meta
 .. image:: https://badge.fury.io/py/helga-craigslist-meta.png
     :target: https://badge.fury.io/py/helga-craigslist-meta
 
-.. image:: https://travis-ci.org/narfman0/helga-craigslist-meta.png?branch=master
-    :target: https://travis-ci.org/narfman0/helga-craigslist-meta
+.. image:: https://travis-ci.org/narfman0/helga-craigslist-metadata.png?branch=master
+    :target: https://travis-ci.org/narfman0/helga-craigslist-metadata
 
 Provide information for craigslist related metadata
 
